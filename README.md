@@ -1,4 +1,4 @@
-Repository for Cu–Zn Alloy Materials Data Analysis project.
+AI-assisted analysis of Cu–Zn alloy materials datasets using Python, Pandas, NumPy, and Jupyter Notebook.
 # Materials Data Analysis
 
 ## Overview
