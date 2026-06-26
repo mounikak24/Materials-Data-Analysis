@@ -1,0 +1,11 @@
+Cu_wt_percent,Zn_wt_percent,Grain_Size_micrometer,Yield_Strength_MPa,Ultimate_Tensile_Strength_MPa,Elastic_Modulus_GPa,Hardness_Value,Hardness_Scale,Elongation_percent,Reference
+70,30,45,150,310,110,85,HV,35,ASM Handbook
+68,32,38,175,340,109,92,HV,30,ASM Handbook
+65,35,30,210,380,108,105,HV,25,Callister
+63,37,25,240,410,106,120,HV,20,Callister
+60,40,20,280,450,104,140,HV,15,ASM Handbook
+72,28,55,130,290,112,75,HB,40,Davis
+69,31,42,165,330,110,90,HV,32,Davis
+67,33,36,190,360,109,98,HV,28,Davis
+64,36,28,225,395,107,112,HV,22,Davis
+62,38,22,260,430,105,130,HV,18,Davis
